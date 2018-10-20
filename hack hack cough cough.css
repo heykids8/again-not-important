@@ -1,0 +1,23 @@
+body {
+	background-color: honeydew;
+}
+
+h1 {
+	text-align: center;
+}
+
+ul.square {
+	list-style-type: square;
+}
+
+p.color {
+	background-color: DarkCyan;
+}
+
+p.color {
+	color: PaleTurquoise;
+}
+
+ol.zoom {
+	border-style: outset;
+}
